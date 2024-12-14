@@ -1,1 +1,1 @@
-# Sistemas-complejos-Redes-complejas-y-epidemias
+# Sistemas complejos Redes complejas y epidemias
